@@ -3,7 +3,7 @@ module.exports = {
     port: 8088,
     base: '/', // 设置站点根路径
     title: 'Hengguao Blog',
-    description: 'Hengguao Blog',
+    description: 'Hengguao Blog1',
     head: [
         ['link', { rel: 'icon', href: '/img/logo.jpg' }]
     ],
