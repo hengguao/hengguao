@@ -25,6 +25,6 @@ git add -A
 git commit -m 'deploy docs'
 
 # 发布到 https://<USERNAME>.github.io master:gh-pages
-git push -f git@gitee.com:hengguao/hengguao.git master
+git push git@gitee.com:hengguao/hengguao.git master
 
 cd -
