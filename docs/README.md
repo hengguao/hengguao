@@ -3,7 +3,7 @@ home: true
 heroImage: /img/logo.jpg
 heroText: null
 tagline: null
-actionText: 话不多说，直接开干 →
+actionText: 话不多说1，直接开干 →
 actionLink: /java/
 features:
 - title: Java系列
