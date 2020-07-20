@@ -1,0 +1,17 @@
+{
+  "name": "blog.hengguao.top",
+  "version": "1.0.0",
+  "description": "Hello Hengguao Blog",
+  "main": "index.js",
+  "scripts": {
+	"docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": ["Hengguao Blog"],
+  "author": "Hengguao",
+  "private": true,
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
